@@ -22,3 +22,12 @@ This project demonstates API integration , automation , and AI-based content pro
 # OUTPUT
 - Data stored in googlesheets(TITLE,SUMMARY,URL,DATE,SOURCE)
 - Weekly summarized email sent via Gmail  
+# DEMO VIDEO
+https://www.loom.com/share/7d0cdf7962d7451397ae44b565dc716d
+# SCREENSHOT
+### SENERIO WORKFLOW
+ [SENERIO] 
+### EMAIL OUTPUT
+ [EMAIL]
+### GOOGLE SHEETS DATA
+ [SHEETS]
