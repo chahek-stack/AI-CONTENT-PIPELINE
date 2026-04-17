@@ -29,6 +29,6 @@ https://www.loom.com/share/7d0cdf7962d7451397ae44b565dc716d
  [SENERIO] https://github.com/chahek-stack/AI-CONTENT-PIPELINE/blob/main/Screen%20Shot%202026-04-17%20at%205.05.10%20PM.png?raw=true
  https://github.com/chahek-stack/AI-CONTENT-PIPELINE/blob/main/Screen%20Shot%202026-04-17%20at%205.05.56%20PM.png?raw=true
 ### EMAIL OUTPUT
- [EMAIL]
+ [EMAIL] https://github.com/chahek-stack/AI-CONTENT-PIPELINE/blob/main/Screen%20Shot%202026-04-17%20at%205.10.11%20PM.png?raw=true
 ### GOOGLE SHEETS DATA
  [SHEETS]
